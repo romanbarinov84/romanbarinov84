@@ -2,7 +2,7 @@
 
 Я **Frontend-разработчик** с опытом работы в JavaScript и стремлением создавать креативные и эффективные веб-приложения.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romanbarinov84&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romanbarinov84&show_icons=true&theme=radical&v=2)
 
 В данный момент я изучаю:
 - JavaScript (особенно интересуюсь современными фреймворками)
